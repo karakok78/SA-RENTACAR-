@@ -1,0 +1,16 @@
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\bin\Debug\SAURentaCar.exe.config
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\bin\Debug\SAURentaCar.exe
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\bin\Debug\SAURentaCar.pdb
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.csprojAssemblyReference.cache
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.giris.resources
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.menu.resources
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.Properties.Resources.resources
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.csproj.GenerateResource.cache
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.csproj.CoreCompileInputs.cache
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.exe
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.pdb
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.aracislem.resources
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.arackiralama.resources
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.musteribilgileri.resources
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.guncelle.resources
+C:\Users\tunah\Desktop\SAURentaCar\SAURentaCar\obj\Debug\SAURentaCar.aracteslimalma.resources
